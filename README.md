@@ -1,15 +1,19 @@
-# Mon Projet Node.js avec Front-end React.js
+## Web Application with NodeJS and React
 
-Ce projet est une application web développée avec Node.js pour le back-end et React.js pour le front-end.
+This project is a web application developed with Node.js for the back-end and React.js for the front-end.
+
+## Database
+
+**Don't forget to restore the database in the `database` folder, `gestion_appartement.SQL` file in your MySQL database.
 
 ## Installation
 
-Pour installer ce projet, suivez ces étapes :
+To install this project, follow these steps:
 
-1. Clonez ce dépôt.
-2. Exécutez `npm install` dans les dossiers `backend` et `frontend`.
-3. Exécutez `npm start` dans les dossiers `backend` et `frontend`.
+1. Clone this repository.
+2. Run `npm install` in the `backend` et `frontend` folders.
+3. Run `npm start` in the `backend` and `frontend` folders.
 
-## Utilisation
+## Usage
 
-Ouvrez votre navigateur et accédez à `http://localhost:3000`.
+Open your browser and go to `http://localhost:3000`.
